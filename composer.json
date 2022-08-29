@@ -1,0 +1,7 @@
+{
+    "require": {
+        "auth0/auth0-php": "~5.0",
+        "vlucas/phpdotenv": "^5.4",
+        "steampixel/simple-php-router": "^0.7.0"
+    }
+}
